@@ -1,6 +1,6 @@
-<div align="center">
-  <h1>Hello World! I'm Júnior⚡</h1>
-</div>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=25&color=FAFAFD&center=true&lines=_Hello+World!+I'm+J%C3%BAnior%E2%9A%A1_)](https://git.io/typing-svg)
+<hr>
+
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨‍💻Magno Júnior | 💻 Junior Developer | 🛸 Rondônia , Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
