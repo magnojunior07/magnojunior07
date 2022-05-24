@@ -4,10 +4,12 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨‍💻Magno Júnior | 💻 Junior Developer | 🛸 Rondônia , Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif" />
-<p align="center">
-  <h3> I'm studant of Information Systems, 18 years old, passionate about technology since childhood, fan of animes and mangas, especially One Piece, in addition to being a lover of coffee and rock'n roll🤘</h3>
-</p>
+
+<div align="center">
+  <img height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif" />
+  
+  <h3> I'm studant of Information Systems, 18 years old, passionate about technology since childhood, fan of animes and mangas, in addition to being a lover of coffee and rock'n roll🤘</h3>
+</div>
 
 - Learning javascript, web development, HTTP protocol, and backend tools
 
