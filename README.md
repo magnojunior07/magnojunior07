@@ -23,14 +23,21 @@
 
 <hr>
 
-<p align="center" >
+<p>
 <a href="https://github.com/magnojunior07"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=magnojunior07&show_icons=true&theme=tokyonight&count_private=true"/>
-  </a>
-  
- <a href="https://github.com/magnojunior07">
+</a>
+
+<a href="https://github.com/magnojunior07">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnojunior07&layout=compact&theme=tokyonight">
 </a>
+
+<br>
+
+<a href="https://github.com/magnojunior07">
+  <img align="top" src="https://komarev.com/ghpvc/?username=magnojunior07&label=Views&color=116262">
+</a>
+
 </p>
 
 <hr>
