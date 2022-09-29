@@ -11,16 +11,17 @@
   <h3> I'm studant of Information Systems, 18 years old, passionate about technology since childhood, fan of animes and mangas, in addition to being a lover of coffee and rock'n roll🤘</h3>
 </div>
 
-- Learning javascript, web development, HTTP protocol, and backend tools
+- Learning web development, HTTP protocol, frontend and backend tools
 
-- Working in personal projects using HTML, CSS, Typescript, Javascript and Nodejs
+- Working in personal projects using HTML, CSS, Angular, Typescript, Javascript and Nodejs
 
 - Constantly evolving, always perfecting myself in search of my best version
 
 - Contact me <a href="mailto:magnojunior319@gmail.com" target="blank">
   <img align="center" width="70px" src="https://img.shields.io/static/v1?label=&message=email&color=505264&style=for-the-badge&logo=gmail&logoColor=8a90c7">
+</a> <a href="https://www.linkedin.com/in/magnojunior07/" target="blank">
+  <img align="center" width="90px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
 <hr>
 
 <p>
@@ -46,4 +47,5 @@
   <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img align="center" src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=FFF" />
   <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </div>
