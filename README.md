@@ -8,7 +8,7 @@
 <div align="center">
   <img height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif" />
   
-  <h3> I'm studant of Information Systems, 18 years old, passionate about technology since childhood, fan of animes and mangas, in addition to being a lover of coffee and rock'n roll🤘</h3>
+  <h3> I'm studant of Information Systems, 19 years old, passionate about technology since childhood, fan of animes and mangas, in addition to being a lover of coffee and rock'n roll🤘</h3>
 </div>
 
 - Learning web development, HTTP protocol, frontend and backend tools
