@@ -13,7 +13,7 @@
 
 - Learning web development, HTTP protocol, frontend and backend tools
 
-- Working in personal projects using HTML, CSS, React, Angular, TypeScript, JavaScript and NodeJS
+- Working in personal projects using HTML, CSS, React, Angular, Typescript, Javascript and Nodejs
 
 - Constantly evolving, always perfecting myself in search of my best version
 
@@ -48,6 +48,7 @@
   <img align="center" src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=FFF" />
   <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=0078d7"/>
   <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   
   <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
