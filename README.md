@@ -13,7 +13,7 @@
 
 - Learning web development, HTTP protocol, frontend and backend tools
 
-- Working in personal projects using HTML, CSS, React, Angular, Typescript, Javascript and Nodejs
+- Working in personal projects using HTML, CSS, React, Angular, TypeScript, JavaScript and NodeJS
 
 - Constantly evolving, always perfecting myself in search of my best version
 
