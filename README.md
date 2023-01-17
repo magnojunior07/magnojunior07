@@ -11,7 +11,7 @@
   <h3> I'm studant of Information Systems, 19 years old, passionate about technology since childhood, fan of animes and mangas, in addition to being a lover of coffee and rock'n roll🤘</h3>
 </div>
 
-- Learning web development, HTTP protocol, frontend and backend tools
+- Learning web development, frontend and backend tools
 
 - Working in personal projects using HTML, CSS, React, Angular, Typescript, Javascript and Nodejs
 
