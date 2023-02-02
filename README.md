@@ -51,5 +51,4 @@
   <img align="center" padding="4" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=0078d7"/>
   <img align="center" padding="4" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> 
   <img align="center" padding="4" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" padding="4" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
