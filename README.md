@@ -11,9 +11,9 @@
   <h3> I'm studant of Information Systems, 19 years old, passionate about technology since childhood, fan of animes and mangas, in addition to being a lover of coffee and rock'n roll🤘</h3>
 </div>
 
-- Learning web development, frontend and backend tools
+- Learning web development, Golang, some fundamentals of computer science, C and programming language paradigms
 
-- Working in personal projects using HTML, CSS, React, Angular, Typescript, Javascript and Nodejs
+- Working in personal projects using React, Angular, Typescript, Javascript, Nodejs and Golang
 
 - Constantly evolving, always perfecting myself in search of my best version
 
