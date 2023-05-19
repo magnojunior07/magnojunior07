@@ -10,7 +10,7 @@
 <div align="left">  
   <h3> I'm studant of Information Systems, 19 years old, passionate about technology since childhood, fan of animes and mangas, in addition to being a lover of coffee and rock'n roll🤘</h3>
 
-- Main stacks: TypeScript, JavaScript, Golang, NodeJS, React, Docker 
+- Main stacks: TypeScript, JavaScript, Golang, NodeJS, React. 
   
 - Currently studying: web development, Golang, algorithms, data structures, and some fundamentals of computer science.
 
@@ -24,6 +24,7 @@
   <img align="center" width="90px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
  </div>
+
 
 <hr>
 
@@ -44,7 +45,6 @@
 <a>
     <img src="https://komarev.com/ghpvc/?username=magnojunior07&label=Views&color=116262">
 </a>
-
  
 <hr>
 
