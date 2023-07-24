@@ -8,9 +8,9 @@
 <img min-width="400px" max-width="400px" width="400px" align="right" src="https://cdn.discordapp.com/attachments/1100170312106127410/1108829477372448859/programming_vector_illustration_coffe_cyberpunk_seed-497203353ts-1684435945_idx-0.png" />
   
 <div align="left">  
-  <h3> I'm studant of Information Systems, 19 years old, passionate about technology since childhood, fan of animes and mangas, in addition to being a lover of coffee and rock'n roll🤘</h3>
+  <h3> I'm studant of Information Systems, 19 years old, passionate about technology since childhood, coffe and rock lover. Always in development</h3>
 
-- Main stacks: TypeScript, JavaScript, Golang, NodeJS, React. 
+- Main stacks: TypeScript, JavaScript, Golang, NodeJS, React.
   
 - Currently studying: web development, Golang, algorithms, data structures, and some fundamentals of computer science.
 
