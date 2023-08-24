@@ -10,9 +10,9 @@
 <div align="left">  
   <h3> I'm studant of Information Systems, 19 years old, passionate about technology since childhood, coffee and rock lover. Always in development</h3>
 
-- Main stacks: TypeScript, JavaScript, Golang, NodeJS, React.
+- Main stacks: TypeScript, JavaScript, Golang, NodeJS, React, Java.
   
-- Currently studying: web development, Golang, algorithms, data structures, and some fundamentals of computer science.
+- Currently studying: web development, Java, Golang, algorithms, data structures, and some fundamentals of computer science.
 
 - Working in personal and professional projects using React, TypeScript, JavaScript, Nodejs and Golang.
 
@@ -60,4 +60,5 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
