@@ -4,17 +4,17 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨‍💻Magno Júnior | 💻 Software Developer | 🛸 Rondônia , Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-
-<img min-width="400px" max-width="400px" width="400px" align="right" src="https://cdn.discordapp.com/attachments/1100170312106127410/1108829477372448859/programming_vector_illustration_coffe_cyberpunk_seed-497203353ts-1684435945_idx-0.png" />
   
-<div align="left">  
+<div align="center">  
   <h3> I'm studant of Information Systems, 19 years old, passionate about technology since childhood, coffee and rock lover. Always in development</h3>
 
+<div align="left">
+  
 - Main stacks: TypeScript, JavaScript, Golang, NodeJS, React, Java.
   
 - Currently studying: web development, Java, Golang, algorithms, data structures, and some fundamentals of computer science.
 
-- Working in personal and professional projects using React, TypeScript, JavaScript, Nodejs and Golang.
+- Working in personal and professional projects using React, TypeScript, JavaScript, Nodejs, Java and Golang.
 
 - Constantly evolving, always perfecting myself in search of my best version.
 
@@ -23,6 +23,7 @@
 </a> <a href="https://www.linkedin.com/in/magnojunior07/" target="blank">
   <img align="center" width="90px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+</div>
  </div>
 
 
