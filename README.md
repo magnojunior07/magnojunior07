@@ -44,7 +44,7 @@
 <br>    
 
 <a>
-    <img src="https://komarev.com/ghpvc/?username=magnojunior07&label=Views&color=116262">
+    <img src="https://komarev.com/ghpvc/?username=magnojunior07&label=Views&color=7159c1">
 </a>
  
 <hr>
