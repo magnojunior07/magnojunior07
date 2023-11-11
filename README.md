@@ -6,7 +6,7 @@
 </div>
   
 <div align="center">  
-  <h3> I'm studant of Information Systems, 19 years old, passionate about technology since childhood, coffee and rock lover. Always in development</h3>
+  <h3> I'm studant of Information Systems, 20 years old, passionate about technology since childhood, coffee and rock lover. Always in development</h3>
 
 <div align="left">
   
